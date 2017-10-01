@@ -46,7 +46,7 @@ class Snake extends JFrame implements KeyListener, Runnable {
     Snake() {
         super("Snake");
         setSize(500, 330);
-        //Crear menu bar with functions
+        //Crear menu bar con funciones
         creatbar();
         //initialize all variables
         initializeValues();
