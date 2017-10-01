@@ -60,7 +60,7 @@ class Snake extends JFrame implements KeyListener, Runnable {
         // snake have to eat bonousfood to growup
         bonusfood = new JButton();
         bonusfood.setEnabled(false);
-        // will make first snake
+        // Crear la primer viborita
         createFirstSnake();
 
         p1.setLayout(null);
