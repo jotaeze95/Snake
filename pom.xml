@@ -22,7 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.roufid.tutorials.AppTest</mainClass>
+              <mainClass>juego.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
