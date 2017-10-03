@@ -22,7 +22,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>src.juego.Main</mainClass>
+              <mainClass>src.juego</mainClass>
             </manifest>
           </archive>
         </configuration>
